@@ -14,7 +14,6 @@ Having spent 10 years in sales and customer success I have taken charge of the n
 ## Work Experience
 
 Pomelo Pay (November 2020 to November 2021) 
-
 Head of Customer Success and Partnerships
 
 Payments fintech based in London. My role was to managed and improved the customer pipeline for UK customers. I was also responsible for new partnerships with a mind to look emerging opportunities. 
