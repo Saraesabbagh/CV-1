@@ -1,6 +1,8 @@
-## Your Name
+Sara Sabbagh
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+Having spent 10 years in sales and customer success I have taken charge of the next phase of my career and have jumped into the world of technology. I am fasinated by all things digital and new technologies, and am firmly on the path to becoming a full stack engineer.
 
 ## Projects
 
@@ -11,8 +13,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Company Name** (May 2022 to September 2022)  
+Makers Academy
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
