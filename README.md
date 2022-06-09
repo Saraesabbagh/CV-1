@@ -13,13 +13,16 @@ Having spent 10 years in sales and customer success I have taken charge of the n
 
 ## Work Experience
 
-**Company Name** (May 2022 to September 2022)  
-Makers Academy
+Pomelo Pay (November 2020 to November 2021) 
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Head of Customer Success and Partnerships
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Payments fintech based in London. My role was to managed and improved the customer pipeline for UK customers. I was also responsible for new partnerships with a mind to look emerging opportunities. 
+
+Jobsolutely (January 2018 to Novemeber 2020)  
+Founder 
+
+With my experience in sales, recruitment and technology I partnered up with a web developer to build a recruitment, labour supply platform in the contruction sector. 
 
 - Any experience relevent to software development
 
