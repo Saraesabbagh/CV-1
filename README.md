@@ -13,26 +13,26 @@ Having spent 10 years in sales and customer success I have taken charge of the n
 |<a href="https://cocky-kalam-4edd5e.netlify.app/" target="_blank">Personal Portfolio</a>|Find details and further info on my portfolio page|
 
 ## Work Experience
-### <a href="https://www.pomelopay.com/" target="_blank" >Pomelo Pay</a> 
+### <a href="https://www.pomelopay.com/" target="_blank" >Pomelo Pay 💰</a> 
 (November 2020 to November 2021) 
 <br>
 Head of Customer Success and Partnerships
 
 Payments fintech based in London. My role was to managed and improved the customer pipeline for UK customers. I was also responsible for new partnerships with a mind to look emerging opportunities. 
-### <a href="https://www.instagram.com/heartmeltstoasties/?hl=en" target="_blank">Heart Melts</a>
+### <a href="https://www.instagram.com/heartmeltstoasties/?hl=en" target="_blank">Heart Melts 🧀</a>
 (Feb 2020- Present)<br>
 Director
 <br>
 Self employed running a vegan toastie at markets and festivals. Originally set up as a side hustle to save money to buy a house. Now i'm on the property ladder I stick to making toasties for myself. 
 
 
-### Jobsolutely 
+### Jobsolutely 👷
 (January 2018 to Novemeber 2020)  
 Founder 
 
 With my experience in sales, recruitment and technology I partnered up with a web developer to build a recruitment, labour supply platform in the contruction sector. 
 
-### <a href="https://www.passthekeys.co.uk/?utm_source=adwords&utm_medium=ppc&utm_term=pass%20the%20keys&utm_campaign=%23LD+-+Search+-+Host+Acquisition+-+LKS+-+Big+City+-+Manchester&hsa_acc=9749918655&hsa_cam=12876686865&hsa_grp=116692663130&hsa_ad=517659866098&hsa_src=g&hsa_tgt=kwd-439543428234&hsa_kw=pass%20the%20keys&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwyaWZBhBGEiwACslQo-QuylaY3Tps3Nv0pgGiREcH_thAbJ4P3Rro48-X9bgq2pv_G2g4shoC26AQAvD_BwE" target="_blank" >Pass the Keys</a>
+### <a href="https://www.passthekeys.co.uk/?utm_source=adwords&utm_medium=ppc&utm_term=pass%20the%20keys&utm_campaign=%23LD+-+Search+-+Host+Acquisition+-+LKS+-+Big+City+-+Manchester&hsa_acc=9749918655&hsa_cam=12876686865&hsa_grp=116692663130&hsa_ad=517659866098&hsa_src=g&hsa_tgt=kwd-439543428234&hsa_kw=pass%20the%20keys&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwyaWZBhBGEiwACslQo-QuylaY3Tps3Nv0pgGiREcH_thAbJ4P3Rro48-X9bgq2pv_G2g4shoC26AQAvD_BwE" target="_blank" >Pass the Keys 🏘️</a>
 (Jan 2017 - Jan 2018)
 <br>
 Sales Manager
