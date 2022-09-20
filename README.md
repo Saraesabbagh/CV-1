@@ -20,7 +20,7 @@ Head of Customer Success and Partnerships
 
 Payments fintech based in London. My role was to managed and improved the customer pipeline for UK customers. I was also responsible for new partnerships with a mind to look emerging opportunities. 
 ### <a href="https://www.instagram.com/heartmeltstoasties/?hl=en" target="_blank">Heart Melts</a>
-(Feb 2020- April 2022)<br>
+(Feb 2020- Present)<br>
 Director
 <br>
 Self employed running a vegan toastie at markets and festivals. Originally set up as a side hustle to save money to buy a house. Now i'm on the property ladder I stick to making toasties for myself. 
