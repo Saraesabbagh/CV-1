@@ -1,70 +1,66 @@
-## Sara Sabbagh
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+<h1><div align="left"> Sara Sabbagh 👋</div></h1>
 
 Having spent 10 years in sales and customer success I have taken charge of the next phase of my career and have jumped into the world of technology. I am fasinated by all things digital and new technologies, and am firmly on the path to becoming a full stack engineer.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description        | Tech/tools         |Testing| Launch Link / Demo |
+| ---------------------------- | -----------------  | -----------------  |--------|-------------
+| <a href= "https://github.com/Saraesabbagh/Ramble-App" >Ramble App</a>| Interactive webapp that allows users to invite others to share journeys,walks and cycles journeys.|<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">|Jest, Cypress|<a href="https://www.youtube.com/watch?v=Xpqo9LYWCCc" target="_blank">Watch demo</a>|
+| <a href="https://github.com/Saraesabbagh/acebook-the-pyjamas"> Acebook </a> | A clone of facebook that allows users to register, friend eachother and write posts to eachother | <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">           |Jest, Cypress| <a href="https://acebook-the-pyjamas.herokuapp.com/" target="_blank">click here to lauch site</a>|
+<a href= "https://github.com/Saraesabbagh/Airbnb-Clone-sara" target="_blank">MakersBnb</a>| Airbnb clone where people can list properties and other users can request to book | <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">|RSpec| <a href="https://officialmakersbnb.herokuapp.com/">Click to lauch site</a>|
+<a href="https://github.com/Saraesabbagh/final-weather-react target=">Weather App</a>| Simple weather app that take a location and uses an api to give you weather forcast for your location | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> Apis, | |<a href="https://jovial-darwin-8e70ec.netlify.app/" target="_blank"> Click to Launch site </a>
+|<a href="https://cocky-kalam-4edd5e.netlify.app/" target="_blank">Personal Portfolio</a>|Find details and further info on my portfolio page|
 
 ## Work Experience
 
-Pomelo Pay (November 2020 to November 2021)
+(November 2020 to November 2021) 
 Head of Customer Success and Partnerships
 
 Payments fintech based in London. My role was to managed and improved the customer pipeline for UK customers. I was also responsible for new partnerships with a mind to look emerging opportunities. 
 
-Jobsolutely (January 2018 to Novemeber 2020)  
+### Jobsolutely 
+(January 2018 to Novemeber 2020)  
 Founder 
 
 With my experience in sales, recruitment and technology I partnered up with a web developer to build a recruitment, labour supply platform in the contruction sector. 
 
-- Any experience relevent to software development
+### Pass the Keys
+Sales Manager
+
+London Based PropTech specialising in Short term lets. My role was to manage and train the sales department and sign up customers myself. Most sales were done in person or over the phone. 
+
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+### Technical Skills
+- Javascript (with Jest testing)
+- React
+- HTML 5/ CSS 3
+- SQL/ MongoDb
+- Ruby (with RSpec testing)
+- TDD
+- Pipeline Management
+### Soft Skills
+- Communication both Technical and non technical (or translation between the two)
+- Agile work style
+- Pair Programming
+- Negotiating
+- Team/project management
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 #### Makers Academy (May 2022 to September 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Highly selective intensive coding bootcamp
+- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- TDD, 
+- Agile work practices,
+- Ruby, Rails, JavaScript,
+- RSpec, Jest
+- React
+- HTML/ CSS
+- APIs
 
 #### University of Leeds (Sept 2009 to June 2013)
 
@@ -73,9 +69,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 #### Any other qualifications
+- Technical certificate in Anti Money Laundering and KYC compliance priniples from the ICA(International Compliance Association).
+- TEFL
 
-That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## When i'm not coding
+- 🏃‍♀️ keen Runner (<a href="https://www.strava.com/athletes/105594035" target="_blank">Strava-Profile</a>) 
+- 🏸  Avid squash and badminton fan, always looking for partners.
+- 🧀 🥪 Sometimes can be found running <a href="https://www.instagram.com/heartmeltstoasties/?hl=en" target="_blank">Heartmelts</a>- A Vegan Cheese toastie tent at festivals. (I am the master griller)
+- ⚽ Die hard Spurs fan (COYS!)
 
-Any cool stuff that makes you a super part of a software development team
+
