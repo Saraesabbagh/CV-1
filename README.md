@@ -1,6 +1,6 @@
 <h1><div align="left"> Sara Sabbagh 👋</div></h1>
 
-Having spent 10 years in sales and customer success I have taken charge of the next phase of my career and have jumped into the world of technology. I am fasinated by all things digital and new technologies, and am firmly on the path to becoming a full stack engineer.
+Having spent 10 years working my way up to Head of Customer Success and starting up my own businesses. I have taken charge of the next phase of my career and have jumped into the world of technology. I am fasinated by all things digital and new technologies, and am firmly on the path to becoming a full stack engineer.
 
 ## Projects
 
@@ -18,7 +18,7 @@ Having spent 10 years in sales and customer success I have taken charge of the n
 <br>
 Head of Customer Success and Partnerships
 
-Payments fintech based in London. My role was to managed and improve the customer pipeline for UK customers. I was also responsible for new partnerships with a mind to look emerging opportunities.
+Payments fintech based in London. My role was to managed and improve the customer pipeline for UK customers. I was also responsible for new partnerships with a mind to look emerging opportunities. I also worked closely with the tech team to voice new feature requests and actively seek tech partnerships that would reduce time pressure on the tech team genearlly. 
 ### <a href="https://www.instagram.com/heartmeltstoasties/?hl=en" target="_blank">Heart Melts 🧀</a>
 (Feb 2020- Present)<br>
 Director
@@ -38,6 +38,14 @@ With my experience in sales, recruitment and technology I partnered up with a we
 Sales Manager
 
 London Based PropTech specialising in Short term lets. My role was to manage and train the sales department and sign up customers myself. Most sales were done in person or over the phone. 
+
+### <a href="https://www.linkedin.com/company/red-planet-marketing-ltd/" target="_blank" >Red Planet Marketing 🤝</a>
+(Dec 2013 - Jan 2017)
+<br>
+Assistant Owner
+
+International direct sales and marketing company. My role started off simply learning how to carry out sales. This was a 100% commission based role, which taught me tenacity, endurance and perseverance. Throughout my time here I progressed to the top of the business development programe where I learnt to recruit, manage and motivate a team of sales people.  
+
 
 
 ## Skills
@@ -60,7 +68,7 @@ London Based PropTech specialising in Short term lets. My role was to manage and
 
 ## Education
 
-#### Makers Academy (May 2022 to September 2022)
+### Makers Academy (May 2022 to September 2022)
 - Highly selective intensive coding bootcamp
 - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - TDD, 
@@ -70,8 +78,30 @@ London Based PropTech specialising in Short term lets. My role was to manage and
 - React
 - HTML/ CSS
 - APIs
+### FireBrand Digital (April 2022 to May 2022)
+- Azure fundamentals certification. 
+- Cloud and server, hosting.
 
-#### University of Leeds (Sept 2009 to June 2013)
+### Manchester Metropolitan University (Jan 2022 to March 2022)
+#### InDigital Skills Technology Bootcamp
+- Entry into CyberSecurity
+- Entry to Python and SQLlite
+- Entry into Unity and Games Design
+- Career coaching by Heroworx
+- Marketing and pitching basics
+- Entry into Azure 
+### SheCodes (Nov 2021 to Dec 2021)
+- HTML and CSS fundamentals
+- Javascript
+- React
+- Responsive web apps
+- Flexboxes and grids. 
+- Bootstrap
+- APIs
+- Netlify
+- Basic SEO
+
+### University of Leeds (Sept 2009 to June 2013)
 
 - Joint BA in Spanish and Linguistics
 - 2.1
