@@ -67,12 +67,16 @@ International direct sales and marketing company. My role started off simply lea
 - React
 - HTML 5/ CSS 3
 - SQL/ MongoDb
-- Ruby (with RSpec testing)
+- MySQL
+- Ruby (with RSpec testing and MiniTests)
+- Rails
 - TDD
 - Pipeline Management
+- AWS
+- CI/CD
 ### Soft Skills
 - Communication both Technical and non technical (or translation between the two)
-- Agile work style
+- Agile/ SCRUM work style
 - Pair Programming
 - Negotiating
 - Team/project management
