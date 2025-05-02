@@ -14,7 +14,7 @@ Having spent 10 years working my way up to Head of Customer Success and starting
 
 ## Work Experience
 
-### <a href="https://wondrmedical.net/](https://www.cautionyourblast.com/team?member=3RfUrjteeX9s2BxVD7Rqiu#permies-[object%20Object])" target="_blank" >Caution Your Blast 💰</a> 
+### <a href="https://www.cautionyourblast.com/team?member=3RfUrjteeX9s2BxVD7Rqiu#permies-[object%20Object])" target="_blank" >Caution Your Blast 💰</a> 
 (Feb 2024 to Present)
 <br>
 Full Stack Software Engineer
