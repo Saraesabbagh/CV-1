@@ -1,6 +1,6 @@
 <h1><div align="left"> Sara Sabbagh 👋</div></h1>
 
-Having spent 10 years working my way up to Head of Customer Success and starting up my own businesses. I have taken charge of the next phase of my career and have jumped into the world of technology. I am fasinated by all things digital and new technologies, and have hit the ground running entering into the a medtech company as my first Full Stack Engineering position. 
+Having spent 10 years working my way up to Head of Customer Success and starting up my own businesses. I have taken charge of the next phase of my career and have jumped into the world of technology. I am fasinated by all things digital and new technologies, and have hit the ground running entering into the a medtech company as my first Full Stack Engineering position followed by a full stack developer at a consultancy as my second role.  
 
 ## Projects
 
@@ -13,6 +13,19 @@ Having spent 10 years working my way up to Head of Customer Success and starting
 |<a href="https://cocky-kalam-4edd5e.netlify.app/" target="_blank">Personal Portfolio</a>|Find details and further info on my portfolio page|
 
 ## Work Experience
+
+### <a href="https://wondrmedical.net/](https://www.cautionyourblast.com/team?member=3RfUrjteeX9s2BxVD7Rqiu#permies-[object%20Object])" target="_blank" >Caution Your Blast 💰</a> 
+(Feb 2024 to Present)
+<br>
+Full Stack Software Engineer
+
+Public Sector digital Consultancy 
+
+Role was to contribute to product development and product offerings. Forming part of the developing team. Taking part in regular code reviews for colleagues and building part of products myself. Using agile SCRUM methodolgies to work together to provide continous development and improvements. 
+
+-Languages used-Python, Typescript, Nunjucks 
+-Tools- AWS, APIs, cypress, jest, Pytest. 
+
 ### <a href="https://wondrmedical.net/" target="_blank" >Wondr Medical 💰</a> 
 (December 2022 to Present)
 <br>
