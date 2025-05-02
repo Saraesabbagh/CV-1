@@ -77,8 +77,11 @@ International direct sales and marketing company. My role started off simply lea
 
 ### Technical Skills
 - Javascript (with Jest testing)
+- Typescript
 - React
 - HTML 5/ CSS 3
+- Python
+- Postgress
 - SQL/ MongoDb
 - MySQL
 - Ruby (with RSpec testing and MiniTests)
@@ -96,6 +99,13 @@ International direct sales and marketing company. My role started off simply lea
 
 
 ## Education
+
+### Code First Girls- Mid level Accelerator (September 2024 to Jan 2025)
+- on the role training take junior devs to mid level standard.
+- Group based project work.
+- TDD
+- Agile work
+- Exposure to Java and python backend ends as well as microservice infrastructure. 
 
 ### Makers Academy (May 2022 to September 2022)
 - Highly selective intensive coding bootcamp
@@ -143,7 +153,7 @@ International direct sales and marketing company. My role started off simply lea
 
 ## When i'm not coding
 - 🏃‍♀️ keen Runner (<a href="https://www.strava.com/athletes/105594035" target="_blank">Strava-Profile</a>) 
-- 🏸  Avid squash and badminton fan, always looking for partners.
+- 🏸  Avid squash, padel and badminton fan, always looking for partners.
 - 🧀 🥪 Sometimes can be found running <a href="https://www.instagram.com/heartmeltstoasties/?hl=en" target="_blank">Heartmelts</a>- A Vegan Cheese toastie tent at festivals. (I am the master griller)
 - ⚽ Die hard Spurs fan (COYS!)
 
