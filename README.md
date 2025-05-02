@@ -1,6 +1,6 @@
 <h1><div align="left"> Sara Sabbagh 👋</div></h1>
 
-Having spent 10 years working my way up to Head of Customer Success and starting up my own businesses. I have taken charge of the next phase of my career and have jumped into the world of technology. I am fasinated by all things digital and new technologies, and have hit the ground running entering into the a medtech company as my first Full Stack Engineering position followed by a full stack developer at a consultancy as my second role.  
+Having spent 10 years working my way up to Head of Customer Success and starting up my own businesses. I have taken charge of the next phase of my career and have jumped into the world of technology. I now have 2.5 years as a developper under my belt and  am fasinated by all things digital and new technologies. I hit the ground running entering into the a medtech company as my first Full Stack Engineering position followed by a full stack developer at a consultancy as my second role.  
 
 ## Projects
 
